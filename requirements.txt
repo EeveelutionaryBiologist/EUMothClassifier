@@ -1,0 +1,5 @@
+torch>=2.7.1
+torchinfo>=1.8.0
+torchvision==0.22.
+tqdm==4.67.1
+gradio==5.39.0
